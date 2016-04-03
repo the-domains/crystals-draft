@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Crystals]]></title>
         <description><![CDATA[Crystals]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/crystals-draft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 22:17:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 22:22:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/crystals-draft/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bb3c441-c21c-4a1e-9a92-afb5326a1372.jpg">]]></description>
+            <link>https://thegrid.ai/crystals-draft/305cafe7-f5dc-4dee-8b7d-4d5d214e15b9/index.html</link>
+            <guid isPermaLink="false">305cafe7-f5dc-4dee-8b7d-4d5d214e15b9</guid>
+            <pubDate>Sun, 03 Apr 2016 22:20:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2d71956-2ab3-4302-8786-e390a73e249d.jpg">]]></description>
-            <link>undefinedc01135ac-bda9-4547-859c-4e621463699f/index.html</link>
+            <link>https://thegrid.ai/crystals-draft/c01135ac-bda9-4547-859c-4e621463699f/index.html</link>
             <guid isPermaLink="false">c01135ac-bda9-4547-859c-4e621463699f</guid>
             <pubDate>Sun, 03 Apr 2016 22:15:42 GMT</pubDate>
         </item>
