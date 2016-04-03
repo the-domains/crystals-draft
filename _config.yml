@@ -1,6 +1,6 @@
 name: Crystals Draft
 favicon: null
-layout_spectrum: 0.5131829536985606
+layout_spectrum: 0.26848
 typography_spectrum: 0.4682708075270057
 title: Crystals
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#faf6d6'
+    - '#200a11'
+    - '#d27855'
+    - '#b5a381'
+    - '#a54a32'
   brandStrength: 0.8999760872684419
   lightness: 0.4685388305224478
   saturation: 0.9584805071353912
